@@ -22,6 +22,8 @@ Project ini untuk dikerjakan guna memenuhi "Tugas Besar" mata kuliah
 ## Update Notes
 
 ```bash
+
+<b> LARAVEL 8 </b>
 ______________________________________
 Multi Auth 
 Is_admin = 1 = Admin manualy input in database
