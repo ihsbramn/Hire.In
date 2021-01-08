@@ -24,9 +24,7 @@ Project ini untuk dikerjakan guna memenuhi "Tugas Besar" mata kuliah
 ```bash
 ______________________________________
 Multi Auth 
-Is_admin = 1 = Admin
+Is_admin = 1 = Admin manualy input in database
 ______________________________________
  
-bisa print bukti bayar
-checkout sudah beres
-konfirmasi di sisi admin
+add printable button untuk bukti pembayaran
